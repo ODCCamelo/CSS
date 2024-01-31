@@ -99,13 +99,25 @@ section h2 {
 }
 
 #economy {
-    background-color: darkgoldenrod;
+    background-color:khaki;
 }
 
 #economy .articles article a {
-    background-color: darkorange;
+    background-color: gold;
 }
 
 #gamers {
-    background-color: rgb(87, 48, 75);
+    background-color: rgb(248, 196, 232);
+}
+
+#gamers .articles article a{
+    background-color: crimson;
+}
+
+#tecnologia {
+    background-color: rgb(212, 236, 228);
+}
+
+#tecnologia .articles article a{
+    background-color: aqua;
 }
